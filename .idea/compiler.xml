@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="behaviorparam" target="1.7" />
+      <module name="behaviorparam2" target="1.7" />
+      <module name="example" target="1.7" />
+      <module name="example2" target="1.7" />
+      <module name="Function" target="1.7" />
+      <module name="instanceref" target="1.7" />
+      <module name="lib" target="1.7" />
+      <module name="lib2" target="1.7" />
+      <module name="lib3" target="1.7" />
+      <module name="methodref" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

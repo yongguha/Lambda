@@ -1,0 +1,12 @@
+include ':behaviorparam2'
+include ':behaviorparam'
+include ':example2'
+include ':example'
+include ':instanceref'
+include ':methodref'
+include ':Function'
+include ':lib3'
+include ':lib2'
+include ':lib'
+include ':app'
+rootProject.name = "My Application"
